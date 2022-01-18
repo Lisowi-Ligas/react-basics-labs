@@ -1,0 +1,23 @@
+
+table,th,td
+{
+border:solid navy 2px;
+}
+table
+{
+margin-bottom:1em;
+border-spacing:1em;
+width: 50%;
+margin: 3% 0;
+colour: hex 003399;
+text: centered
+//text-colour: hex 003399;
+}
+th,td
+{
+padding-top:0.1em;
+padding-bottom:0.1em;
+padding-right:1em;
+padding-left:1em;
+}
+//padding:0.1em 1em;
